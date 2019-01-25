@@ -1,5 +1,4 @@
-## Name
-Page Classifier
+# Page Classifier
 
 
 ## Requirements
